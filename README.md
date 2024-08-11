@@ -1,2 +1,2 @@
 # atcoder
-practice programming .
+practice programming on atcoder .
