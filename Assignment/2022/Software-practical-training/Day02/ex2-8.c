@@ -1,0 +1,7 @@
+[abcdddef], [dde] -> [ddef]
+[abcabc], [abc] -> [abcabc]
+[print], [int] -> [int]
+[abc], [] -> [abc]
+[], [] -> []
+[age:20, name:tom], [name:] -> [name:tom]
+[This is a pen], [never] -> [NULL]
